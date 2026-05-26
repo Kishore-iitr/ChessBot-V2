@@ -1,5 +1,4 @@
 # ChessBot-V2
-# ChessBot V2
 
 A physical chess-playing robot that combines a 3-DOF robotic arm, computer vision, and the Stockfish chess engine to play chess autonomously against a human opponent.
 
