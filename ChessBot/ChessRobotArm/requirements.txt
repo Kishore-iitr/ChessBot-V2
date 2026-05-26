@@ -1,0 +1,15 @@
+chess
+pyserial
+cairocffi==1.7.1
+CairoSVG==2.9.0
+cffi==2.0.0
+chess==1.11.2
+cssselect2==0.9.0
+defusedxml==0.7.1
+numpy
+opencv-python==4.13.0.92
+pillow==12.1.1
+pycparser==3.0
+pyserial==3.5
+tinycss2==1.5.1
+webencodings==0.5.1
